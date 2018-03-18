@@ -1,0 +1,3 @@
+= Docker HealthCheck
+
+A quick golang program designed to run along a docker socket and die if the docker socket became unavailable 
